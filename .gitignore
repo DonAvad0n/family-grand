@@ -1,0 +1,10 @@
+# Служебные и промежуточные файлы (не публикуются)
+.gigatool/
+.office-verify/
+node_modules/
+*.jpg
+*.xlsx
+*.build.cjs
+*.old.html
+raspisanie-semya.html
+tool-output/
