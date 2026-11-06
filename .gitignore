@@ -6,5 +6,6 @@ node_modules/
 *.xlsx
 *.build.cjs
 *.old.html
+raspisanie-grand.html
 raspisanie-semya.html
 tool-output/
