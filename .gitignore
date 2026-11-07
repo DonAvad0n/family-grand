@@ -5,7 +5,9 @@ node_modules/
 *.jpg
 *.xlsx
 *.build.cjs
+!build-single.cjs
 *.old.html
 raspisanie-grand.html
 raspisanie-semya.html
 tool-output/
+!main-wallpaper.png
